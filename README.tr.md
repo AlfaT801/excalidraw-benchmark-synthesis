@@ -131,8 +131,8 @@ excalidraw_clone/
 
 ### Kurulum
 ```bash
-git clone <repo-adresi>
-cd excalidraw_clone
+git clone https://github.com/AlfaT801/excalidraw-benchmark-synthesis.git
+cd excalidraw-benchmark-synthesis
 npm install
 ```
 
